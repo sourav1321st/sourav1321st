@@ -43,6 +43,6 @@
 
 ## 🤝 Connect With Me  
 - 📧 Email:souravmeher983@gmail.com 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/sourav-meher04))  
+- 💼 [LinkedIn]((https://www.linkedin.com/in/sourav-meher04))  
 
 ⭐️ *“Keep building, keep learning, and keep sharing knowledge!”*  
