@@ -9,7 +9,7 @@
 ## 🌟 About Me  
 - 🎓 Final year **B.Tech (CSE)** student  
 - 💻 Currently learning **Spring Boot, GitHub, and Project Development**  
-- 🌱 Exploring **AI, Computational Intelligence, and Trading Platforms**  
+- 🌱 Exploring **AI and Web-Development**  
 - ⚡ Fun fact: I enjoy solving coding challenges & building practical projects  
 
 ---
@@ -42,8 +42,7 @@
 ---
 
 ## 🤝 Connect With Me  
-- 📧 Email: your-email@example.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
-- 🌐 [Portfolio Website](https://your-portfolio.com/)  
+- 📧 Email:souravmeher983@gmail.com 
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/sourav-meher04))  
 
 ⭐️ *“Keep building, keep learning, and keep sharing knowledge!”*  
