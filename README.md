@@ -20,7 +20,7 @@
 - **Languages:** Java, Python, JavaScript  
 - **Frameworks:** Spring Boot, React, Node.js  
 - **Databases:** MySQL, MongoDB  
-- **Tools:** Git, GitHub, VS Code, IntelliJ IDEA  
+- **Tools:** Git, GitHub, VS Code, Eclipse IDE 
 
 ### Other Interests  
 - Cloud ☁️ (AWS basics)  
