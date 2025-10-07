@@ -18,8 +18,8 @@
 ## 🛠️ Skills  
 
 ### Programming & Development  
-- **Languages:** Java, Python, JavaScript  
-- **Frameworks:** Spring Boot, React, Node.js  
+- **Languages:** Java, Python, C, HTML, CSS, JavaScript  
+- **Frameworks:** Spring Boot, React
 - **Databases:** MySQL, MongoDB  
 - **Tools:** Git, GitHub, VS Code, Eclipse IDE 
 
